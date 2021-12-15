@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gustavo Sena!
-- 👀 I've interest in physics and computacional cience.
+- 👀 I'm interested in physics and computacional cience.
 - 🌱 I’m currently learning HTML, CSS, JS and Python.
 - 💞️ Lately, i'm actually focusion a lot on learning to program.
 - 📫 How to reach me : GamingUnzado12@gmail.com
